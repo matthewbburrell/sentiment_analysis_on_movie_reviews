@@ -3,21 +3,20 @@
 The repo is inspired by the kaggle competion to classify the sentiment of sentences from the a Rotten Tomatoes dataset. The link to the [competition](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews). 
 
 ## Project File
-
-**Main Directory/**
-    - README.md: Project summary document (this file)
-    - **code/**
-        - **script/**
-            - functions.py: Python script containing function codes for cleaning data
-        - 01_data_cleaning_modeling.ipynb: Notebook containg data cleaning and the baseline model
-        - 02_EDA.ipynb: Notebook containing EDA
-    - **data/**
-        - test.tsv: Raw testing data
-        - train.tsv: Raw training data
-        - clean_test.csv: Clean test data
-        - clean_train.cssv: Clean train data
-    - **img/**: Directory containing image files for figures and charts
-    - **models/**: Directory containing pickled models 
+### Main Directory/
+- README.md: Project summary document (this file)
+- **code/**
+    - **script/**
+        - functions.py: Python script containing function codes for cleaning data
+    - 01_data_cleaning_modeling.ipynb: Notebook containg data cleaning and the baseline model
+    - 02_EDA.ipynb: Notebook containing EDA
+- **data/**
+    - test.tsv: Raw testing data
+    - train.tsv: Raw training data
+    - clean_test.csv: Clean test data
+    - clean_train.cssv: Clean train data
+- **img/**: Directory containing image files for figures and charts
+- **models/**: Directory containing pickled models 
 
 ## Data Set
 
