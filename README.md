@@ -10,6 +10,7 @@ The repo is inspired by the kaggle competion to classify the sentiment of senten
         - functions.py: Python script containing function codes for cleaning data
     - 01_data_cleaning_modeling.ipynb: Notebook containg data cleaning and the baseline model
     - 02_EDA.ipynb: Notebook containing EDA
+    - 03_random_forrest: Notebook containing notes and modeling of random forrest
 - **data/**
     - test.tsv: Raw testing data
     - train.tsv: Raw training data
