@@ -8,8 +8,9 @@ The repo is inspired by the kaggle competion to classify the sentiment of senten
 - **code/**
     - **script/**
         - functions.py: Python script containing function codes for cleaning data
-    - 01_data_cleaning_modeling.ipynb: Notebook containg data cleaning and the baseline model
+    - 01_data_cleaning.ipynb: Notebook containing explanation for the cleaning process
     - 02_EDA.ipynb: Notebook containing EDA
+    - 03_data_modeling.ipynb:
 - **data/**
     - test.tsv: Raw testing data
     - train.tsv: Raw training data
@@ -29,6 +30,7 @@ The dataset is a corpus of movie reviews used for sentiment analysis. The data w
 |SentenceId|int| Key identifiers for each setences|
 |Phrase|object/string|Movie reviews broken down to phrases using Stanford parser|
 |Sentiment|int|Sentiment ratings ranging from 0-4 (0 - negative, 1 - somewhat negative, 2 - neutral, 3 - somewhat positive, 4 - positive)|
+
 
 ## Refernces
 
