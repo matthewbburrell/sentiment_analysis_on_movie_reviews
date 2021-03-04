@@ -11,6 +11,7 @@ The repo is inspired by the kaggle competion to classify the sentiment of senten
     - 01_data_cleaning.ipynb: Notebook containing explanation for the cleaning process
     - 02_EDA.ipynb: Notebook containing EDA
     - 03_data_modeling.ipynb:
+    - 04_random_forrest.ipynb: Random Forrest Models
 - **data/**
     - test.tsv: Raw testing data
     - train.tsv: Raw training data
